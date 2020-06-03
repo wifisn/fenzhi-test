@@ -9,4 +9,7 @@ public class test {
     public static void main(String[] args) {
 
     }
+    public void Lv(){
+        System.out.println("ok");
+    }
 }
