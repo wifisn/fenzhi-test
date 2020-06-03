@@ -7,6 +7,9 @@
  */
 public class test {
     public static void main(String[] args) {
+        public void mf(){
+            system.out.println("孟飛")；
+        }
 
     }
 }
